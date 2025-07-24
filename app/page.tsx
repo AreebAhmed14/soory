@@ -20,16 +20,16 @@ const page = () => {
         <div className='w-[30vw] relative h-full overflow-hidden max-[380px]:w-[50vw]'>
               <h2 className={`text-5xl text-white flex justify-center items-center ${CaveatBrush.className} w-full h-full max-[912px]:text-3xl max-[660px]:text-2xl max-[510px]:text-[20px] max-[380px]:text-[25px]`}> <p className=' mx-5 max-[560px]:m-3'>S<span className='text-blue-500'>OO</span>RY SHAJ<span className='text-blue-500'>EE</span></p> </h2>
         </div>
-        <div className={`w-[20vw] h-full flex justify-center items-center mx-3 text-[18px] ${CaveatBrush.className} animate-pulse`}>{`(｡•́︿•̀｡)`}</div>
+        <div className={`w-[20vw] h-full flex justify-center text-white items-center mx-3 text-[18px] ${CaveatBrush.className} animate-pulse`}>{`(｡•́︿•̀｡)`}</div>
        </div>
 
       {/* haeding */}
       <div className='w-full h-[50vh] flex justify-between items-center'>
-        <div className={`w-[50vw] h-full flex flex-col px-5 justify-center ${CaveatBrush.className} max-[700px]:w-full`}>
-          <p className='text-5xl m-2 max-[600px]:text-3xl max-[400px]:m-0 max-[400px]:my-3'>
+        <div className={`w-[50vw] text-white h-full flex flex-col px-5 justify-center ${CaveatBrush.className} max-[700px]:w-full`}>
+          <p className='text-5xl text-white m-2 max-[600px]:text-3xl max-[400px]:m-0 max-[400px]:my-3'>
             <span className='text-blue-500'>{`I'm`}</span> sorry for the pain I caused,
           </p>
-          <p className='text-5xl m-2 max-[600px]:text-3xl max-[400px]:m-0 max-[400px]:my-3'>
+          <p className='text-5xl text-white m-2 max-[600px]:text-3xl max-[400px]:m-0 max-[400px]:my-3'>
           My <span className='text-blue-500'>love</span> for you never paused.
           </p>
           </div>
